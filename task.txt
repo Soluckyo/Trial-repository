@@ -1,0 +1,4 @@
+Create file
+make changes to the file
+create commit
+sinchronize changes with a remote repository
