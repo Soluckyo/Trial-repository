@@ -2,3 +2,4 @@
  1.1 read first lesson
  1.2 read second lesson
 2. go to practice
+3. trial action
